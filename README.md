@@ -2,7 +2,7 @@
 
 A message management system for inside communication.
 A message management system for inside communication.
-A message management system for inside communication.
+
 
 A group project that developed a message management system for enterprise inside communication. I contribute to the core system design, register and login module, member database and regular check. This project involved Java, HTML and JavaScript. MySQL was used as database management system and Tomcat was used as web server.
 
